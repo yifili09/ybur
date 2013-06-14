@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{0.000, 0.000, 0.000, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{0.037, 0.160, 0.198, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-889.33907000189583, 141.72522921683967}</string>
+				<key>nodeID</key>
+				<string>B1270554-C6D6-40B5-B3B0-149094C6E0FB</string>
+				<key>strokeColor</key>
+				<string>{0.273, 0.357, 0.383, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{0.037, 0.160, 0.198, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-654.33907000189583, -193.77477078316031}</string>
+						<key>nodeID</key>
+						<string>51AFADCC-F948-4A13-9F2F-68586B970521</string>
+						<key>strokeColor</key>
+						<string>{0.647, 0.468, 0.027, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-304.33907000189583, -444.77477078316031}</string>
+								<key>nodeID</key>
+								<string>E412F98E-EEAB-4423-9F8F-09C137EA2D2E</string>
+								<key>strokeColor</key>
+								<string>{0.647, 0.468, 0.027, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Whenever you are designing OO systems, a good first step is to identify the things you are dealing with. Typically each type of thing becomes a class in your final program, and the things themselves are instances of these classes. &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Whenever you are designing OO systems, a good first step is to identify the things you are dealing with. Typically each type of thing becomes a class in your final program, and the things themselves are instances of these classes. }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>attachment</key>
+								<dict>
+									<key>fileName</key>
+									<string>A7500AF9-BA68-4B11-AEEE-C0FD3C3AFC47.png</string>
+									<key>size</key>
+									<string>{100, 47.355163727959699}</string>
+									<key>type</key>
+									<integer>2</integer>
+								</dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-304.33907000189583, -158.45235264714017}</string>
+								<key>nodeID</key>
+								<string>12DD47FD-945C-4623-88F5-8EE0BFB3B62E</string>
+								<key>strokeColor</key>
+								<string>{0.647, 0.468, 0.027, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-119.33907000189583, -332.77477078316031}</string>
+										<key>nodeID</key>
+										<string>71B62608-AA3A-46BA-9830-78EE57805953</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;initialize method is a special method in Ruby programs. When call BookInStock.new to create a new object, Ruby allocates some memory to hold an uninitialized object and then calls that object&amp;apos;s initialize method. &lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 initialize method is a special method in Ruby programs. When call BookInStock.new to create a new object, Ruby allocates some memory to hold an uninitialized object and then calls that object's initialize method. }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-119.33907000189583, -218.77477078316031}</string>
+										<key>nodeID</key>
+										<string>B86AEAFA-36B7-49CF-8D09-9A37878F0E6F</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{puts} simply writes strings to your program&amp;apos;s standard output.  #&amp;lt;a hexadecimal number of the object&amp;apos;s unique identifier&amp;gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{puts\}\uc0\u8232 simply writes strings to your program's standard output.  #&lt;a hexadecimal number of the object's unique identifier&gt;}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-119.33907000189583, -120.77477078316031}</string>
+										<key>nodeID</key>
+										<string>B06710D7-376D-4E80-8221-1A1367D93415</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{def to_s} a standard message, to_s, it sends to any object it wants to render as a string.  def to_s 	&amp;quot;ISBN: #{@isbn} , price:#{@price}&amp;quot; end  @isbn and @price in the initialize method are subsequently available in the to_s method? They are stored with each object and available to all the instance methods of those objects.&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{def to_s\}\uc0\u8232 a standard message, to_s, it sends to any object it wants to render as a string.\u8232 \u8232 def to_s\u8232 	"ISBN: #\{@isbn\} , price:#\{@price\}"\u8232 end\u8232 \u8232 @isbn and @price in the initialize method are subsequently available in the to_s method? They are stored with each object and available to all the instance methods of those objects.}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Typically_class&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Typically_class}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Everything manipulate in Ruby is an object. And every object in Ruby was generated either directly or indirectly from a class.&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Everything manipulate in Ruby is an object. And every object in Ruby was generated either directly or indirectly from a class.}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{0.037, 0.160, 0.198, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-654.33907000189583, 393.22522921683969}</string>
+						<key>nodeID</key>
+						<string>DD8BA5B5-2AF7-41DB-8230-AEE143E7152E</string>
+						<key>strokeColor</key>
+						<string>{0.450, 0.541, 0.020, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-295.33907000189583, 313.22522921683969}</string>
+								<key>nodeID</key>
+								<string>8B55385D-1537-4A51-ABDF-94A8EE37D872</string>
+								<key>strokeColor</key>
+								<string>{0.450, 0.541, 0.020, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{47.660929998104166, 121.22522921683969}</string>
+										<key>nodeID</key>
+										<string>0FEBB4E0-8D2A-4425-8014-3F5FE8D34E9C</string>
+										<key>strokeColor</key>
+										<string>{0.450, 0.541, 0.020, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>702</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{attr_reader} because writing accessor methods is such a common idiom, Ruby provides a convenient shortcut. {attr_reader} creates these attribute reader methods for you. attr_reader :isbn,:price, symbols are just a convenient way of referencing a name.  :isbn as meaning the name isbn and plain isbn as meaning the value of the variable.  It just create the accessor methods, but the variables themselves do not need to be declared - they just pop into existence when you use them.  Ruby completely decouples instance variables and accessor methods.&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{attr_reader\}\uc0\u8232 because writing accessor methods is such a common idiom, Ruby provides a convenient shortcut. \{attr_reader\} creates these attribute reader methods for you.\u8232 attr_reader :isbn,:price, symbols are just a convenient way of referencing a name. \u8232 :isbn as meaning the name isbn and plain isbn as meaning the value of the variable. \u8232 It just create the accessor methods, but the variables themselves do not need to be declared - they just pop into existence when you use them. \u8232 Ruby completely decouples instance variables and accessor methods.}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{47.660929998104166, 265.22522921683969}</string>
+										<key>nodeID</key>
+										<string>4FCF8C3D-5A23-458C-8C4C-B746747D191E</string>
+										<key>strokeColor</key>
+										<string>{0.450, 0.541, 0.020, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{attr_writer} 1. def price=(new_price)n , creating a Ruby method whose name ends with an equals sign. the method price= in the object, passing it the discounted price as an argument.   shortcut  attr_writer :isbn&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{attr_writer\}\uc0\u8232 1. def price=(new_price)n , creating a Ruby method whose name ends with an equals sign. the method price= in the object, passing it the discounted price as an argument. \u8232 \u8232 shortcut \u8232 attr_writer :isbn}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{47.660929998104166, 409.22522921683969}</string>
+										<key>nodeID</key>
+										<string>F1293DF9-A5F6-45B5-AA64-5C2D2605D608</string>
+										<key>strokeColor</key>
+										<string>{0.450, 0.541, 0.020, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{Virtual Attributes} used attribute methods to create a virtual instance variable. To the outside word, price_in_cents seems to be an attribute like any other isbn and price. Internally, though, it has no corresponding instance variable.&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{Virtual Attributes\}\uc0\u8232 used attribute methods to create a virtual instance variable. To the outside word, price_in_cents seems to be an attribute like any other isbn and price. Internally, though, it has no corresponding instance variable.}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{47.660929998104166, 521.22522921683969}</string>
+										<key>nodeID</key>
+										<string>9351038E-883F-48CE-8959-F7E07EF96CAC</string>
+										<key>strokeColor</key>
+										<string>{0.450, 0.541, 0.020, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{attr_accessory} write and read accessory shortcut&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{attr_accessory\}\uc0\u8232 write and read accessory shortcut}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{accessory method} define a accessory method and return the instance variables. &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{accessory method\}\uc0\u8232 define a accessory method and return the instance variables. }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-295.33907000189583, 569.22522921683969}</string>
+								<key>nodeID</key>
+								<string>931B0D76-9692-4554-BA44-315D7232BD7B</string>
+								<key>strokeColor</key>
+								<string>{0.450, 0.541, 0.020, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;When you design a class, you decide what internal state it has and also decide how that state is to appear on the outside. ThE INTERNAL STATE IS HELD IN INSTANCE variables. The external state is exposed through methods we are calling attributes. And the other actions your class can perform are just regular methods. It really is not a crucially important distinction, but by calling the external state of an object its attributes, you are helping clue people in to how they should view the class you have written.&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 When you design a class, you decide what internal state it has and also decide how that state is to appear on the outside. ThE INTERNAL STATE IS HELD IN INSTANCE variables. The external state is exposed through methods we are calling attributes. And the other actions your class can perform are just regular methods. It really is not a crucially important distinction, but by calling the external state of an object its attributes, you are helping clue people in to how they should view the class you have written.}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Objects and Attributes  An object is totally secretive is pretty useless -  you can create it, but then you can not do anything with it. Theses externally visible facets of an object are called its attributes.&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Objects and Attributes\uc0\u8232 \u8232 An object is totally secretive is pretty useless -  you can create it, but then you can not do anything with it. Theses externally visible facets of an object are called its attributes.}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 13px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Ruby_Objects_Variables&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 Ruby_Objects_Variables}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKEm5ygnkiGkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26G
+	koSbnISXlwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpZcAhpKEmZkUTlNW
+	ZXJ0aWNhbGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5O
+	U0JvdHRvbU1hcmdpboaShJucoJ5ahoaG
+	</data>
+	<key>title</key>
+	<string>Getting Start</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>
