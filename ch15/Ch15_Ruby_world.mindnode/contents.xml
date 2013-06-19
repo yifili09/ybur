@@ -32,7 +32,7 @@
 				<key>location</key>
 				<string>{-393.64015615900263, 963.13946000867941}</string>
 				<key>nodeID</key>
-				<string>CC7C2573-4B30-494C-B59A-8B01F0C17743</string>
+				<string>5E85914E-DA01-40AF-A3F0-AC86C8B4DAC4</string>
 				<key>strokeColor</key>
 				<string>{0.273, 0.357, 0.383, 1.000}</string>
 				<key>strokeStyle</key>
@@ -53,9 +53,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-753.64015615900257, 643.4437642203136}</string>
+						<string>{-753.64015615900257, 170.19970792896243}</string>
 						<key>nodeID</key>
-						<string>7A2B9A7D-4CCA-4802-9575-5AC3C3E5E227</string>
+						<string>D7C67352-DFEE-4D63-BD1C-21067AFBD2F3</string>
 						<key>strokeColor</key>
 						<string>{0.147, 0.571, 0.525, 1.000}</string>
 						<key>strokeStyle</key>
@@ -76,9 +76,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1113.6401561590026, 587.4437642203136}</string>
+								<string>{-1113.6401561590026, 114.19970792896243}</string>
 								<key>nodeID</key>
-								<string>693E200F-824F-45B1-A803-E36A9589F883</string>
+								<string>906A0C09-95D3-4C22-A882-B51CB5748C48</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -116,9 +116,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1115.6401561590026, 731.4437642203136}</string>
+								<string>{-1115.6401561590026, 258.19970792896243}</string>
 								<key>nodeID</key>
-								<string>339CACF2-337D-47BD-B979-4B1ED872348F</string>
+								<string>010515BA-6ECD-4660-92A3-0BDBF46D4634</string>
 								<key>strokeColor</key>
 								<string>{0.147, 0.571, 0.525, 1.000}</string>
 								<key>strokeStyle</key>
@@ -172,504 +172,11 @@
 						<key>isDrawingFill</key>
 						<false/>
 						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-199.64015615900263, 720.63946000867941}</string>
-						<key>nodeID</key>
-						<string>9CE1BCE3-FB97-4798-936E-C0BFD14D8D4E</string>
-						<key>strokeColor</key>
-						<string>{0.128, 0.463, 0.782, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{0.037, 0.160, 0.198, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{162.35984384099737, 404.2296071210244}</string>
-								<key>nodeID</key>
-								<string>B42A1B75-8DD2-41FE-9A9E-E21374678732</string>
-								<key>strokeColor</key>
-								<string>{0.128, 0.463, 0.782, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;In the Gem world, developers bundle their applications and libraries into single files called gems. These files conform to a standardised format and typically are stored in repository on the net.&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 In the Gem world, developers bundle their applications and libraries into single files called gems. These files conform to a standardised format and typically are stored in repository on the net.}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{0.037, 0.160, 0.198, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{162.35984384099737, 500.2296071210244}</string>
-								<key>nodeID</key>
-								<string>2E1A77AF-C92C-4E11-8356-1079E8EA5672</string>
-								<key>strokeColor</key>
-								<string>{0.128, 0.463, 0.782, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;RubyGems system provide a command-line tool, appropriately named gem, for manipulating these gem files. &lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 RubyGems system provide a command-line tool, appropriately named gem, for manipulating these gem files. }</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{0.037, 0.160, 0.198, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{162.35984384099737, 596.2296071210244}</string>
-								<key>nodeID</key>
-								<string>05F59091-80BE-4AF4-A32B-30C7AD1B0517</string>
-								<key>strokeColor</key>
-								<string>{0.128, 0.463, 0.782, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{0.037, 0.160, 0.198, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{524.35984384099743, 564.2296071210244}</string>
-										<key>nodeID</key>
-										<string>9D08298C-7506-4C36-9BFE-632BE870F07C</string>
-										<key>strokeColor</key>
-										<string>{0.128, 0.463, 0.782, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;--details displays the description of any gems it finds --remote searches the remote repository --name-matches search the central gem repository for any gem whose name matches the regular expression /build/&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 --details\uc0\u8232 displays the description of any gems it finds\u8232 --remote\u8232 searches the remote repository\u8232 --name-matches\u8232 search the central gem repository for any gem whose name matches the regular expression /build/}</string>
-										</dict>
-									</dict>
-								</array>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{Installing Gems}  gem query --details --remote --name-matches build&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 \{Installing Gems\}\uc0\u8232 \u8232 gem query --details --remote --name-matches build}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{0.037, 0.160, 0.198, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{162.35984384099737, 708.2296071210244}</string>
-								<key>nodeID</key>
-								<string>0D2CFB92-D696-4848-B94C-612B22B53D3A</string>
-								<key>strokeColor</key>
-								<string>{0.128, 0.463, 0.782, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{check the  local gems} gem list&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 \{check the  local gems\}\uc0\u8232 gem list}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{0.037, 0.160, 0.198, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{162.35984384099737, 756.2296071210244}</string>
-								<key>nodeID</key>
-								<string>CABBFFED-F8BB-4C97-844B-747FED3902BA</string>
-								<key>strokeColor</key>
-								<string>{0.128, 0.463, 0.782, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{0.037, 0.160, 0.198, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{524.35984384099743, 756.2296071210244}</string>
-										<key>nodeID</key>
-										<string>1545DB81-EBE6-492E-ACF2-36A1DE53B4CD</string>
-										<key>strokeColor</key>
-										<string>{0.128, 0.463, 0.782, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(255, 255, 0, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Create a shortcut? % gemdoc=&amp;apos;gem environment gemdir&amp;apos;/doc ls $gemdoc open $gemdoc/xxxxxxxx/rdoc/index.html&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 Create a shortcut?\uc0\u8232 % gemdoc='gem environment gemdir'/doc\u8232 ls $gemdoc\u8232 open $gemdoc/xxxxxxxx/rdoc/index.html}</string>
-										</dict>
-									</dict>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{0.037, 0.160, 0.198, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{524.35984384099743, 836.2296071210244}</string>
-										<key>nodeID</key>
-										<string>1BCF5465-2961-4211-95B9-485A557D4E6F</string>
-										<key>strokeColor</key>
-										<string>{0.128, 0.463, 0.782, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(255, 255, 0, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Easyest way to view the RDoc documentation is to use RubyGems&amp;apos; included gem server utility. %gem server&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 Easyest way to view the RDoc documentation is to use RubyGems' included gem server utility.\uc0\u8232 %gem server}</string>
-										</dict>
-									</dict>
-								</array>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{Reading the Gem Documentation} the documentation for each gem is stored in a central,protected,RUBYgeMS-SPECIFIC PLACE.  % gem environment gemdir  RubyGems stores generated documentation beneath the doc subfolder and you will find the HTML based files.&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 \{Reading the Gem Documentation\}\uc0\u8232 the documentation for each gem is stored in a central,protected,RUBYgeMS-SPECIFIC PLACE. \u8232 % gem environment gemdir\u8232 \u8232 RubyGems stores generated documentation beneath the doc subfolder and you will find the HTML based files.}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{0.037, 0.160, 0.198, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{162.35984384099737, 968.63946000867941}</string>
-								<key>nodeID</key>
-								<string>212C5A19-9FBF-4FB9-8D27-751B67075152</string>
-								<key>strokeColor</key>
-								<string>{0.128, 0.463, 0.782, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array>
-									<dict>
-										<key>attachment</key>
-										<dict>
-											<key>fileName</key>
-											<string>C3144EA7-2267-47E4-BEC1-5B66CD7A8A24.png</string>
-											<key>size</key>
-											<string>{161.02419073545585, 126.81970577531001}</string>
-											<key>type</key>
-											<integer>2</integer>
-										</dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{0.037, 0.160, 0.198, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<true/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{523.35984384099743, 916.2296071210244}</string>
-										<key>nodeID</key>
-										<string>6E7B6908-620E-47EF-8C18-33BF7EDD7FFF</string>
-										<key>strokeColor</key>
-										<string>{0.128, 0.463, 0.782, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Require_Library&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 Require_Library}</string>
-										</dict>
-									</dict>
-								</array>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[Using a Gem] Once a gem is installed, user {require} to load it into your own code, just s you would any other Ruby library.&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 [Using a Gem]\uc0\u8232 Once a gem is installed, user \{require\} to load it into your own code, just s you would any other Ruby library.}</string>
-								</dict>
-							</dict>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{0.037, 0.160, 0.198, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{162.35984384099737, 1101.0493128963344}</string>
-								<key>nodeID</key>
-								<string>54C0A360-0F1A-443E-AB8B-3E8A7455AD99</string>
-								<key>strokeColor</key>
-								<string>{0.128, 0.463, 0.782, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[Gems and Versions] &lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 [Gems and Versions]\uc0\u8232 }</string>
-								</dict>
-							</dict>
-						</array>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[RubyGems Integration] It is a standardised packaging and installation framework for Ruby libraries and applications. RubyGems makes it easy to locate, install , upgrade and uninstall Ruby packages. &lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs28 \cf2 [RubyGems Integration]\uc0\u8232 It is a standardised packaging and installation framework for Ruby libraries and applications. RubyGems makes it easy to locate, install , upgrade and uninstall Ruby packages.\u8232 }</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{0.037, 0.160, 0.198, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-755.64015615900257, 1035.6394600086794}</string>
+						<string>{-755.64015615900257, 562.39540371732824}</string>
 						<key>nodeID</key>
-						<string>B8A96072-C122-4598-A75A-3571F0CBC06F</string>
+						<string>939BB831-9E1E-4FA5-91CA-B4BFC6035F19</string>
 						<key>strokeColor</key>
 						<string>{0.747, 0.236, 0.101, 1.000}</string>
 						<key>strokeStyle</key>
@@ -699,9 +206,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1201.752118403258, 843.4437642203136}</string>
+								<string>{-1201.752118403258, 370.19970792896248}</string>
 								<key>nodeID</key>
-								<string>3FD5906C-835C-4BF6-97B6-8C12027BBA54</string>
+								<string>5DE55773-E2C6-4AB1-8E53-A9C1F848CA40</string>
 								<key>strokeColor</key>
 								<string>{0.747, 0.236, 0.101, 1.000}</string>
 								<key>strokeStyle</key>
@@ -739,9 +246,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1106.6401561590026, 969.89960203606768}</string>
+								<string>{-1106.6401561590026, 496.65554574471662}</string>
 								<key>nodeID</key>
-								<string>9ACF6065-8F4C-4016-BF55-DE5AA201D409</string>
+								<string>F11640D9-7DE7-4A8E-ACAB-22F00924FD90</string>
 								<key>strokeColor</key>
 								<string>{0.747, 0.236, 0.101, 1.000}</string>
 								<key>strokeStyle</key>
@@ -788,9 +295,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1193.4194623683277, 1065.8996020360678}</string>
+								<string>{-1193.4194623683277, 592.65554574471662}</string>
 								<key>nodeID</key>
-								<string>364FE7C2-DD35-43CA-9886-3502C73BF3CA</string>
+								<string>22F48348-26FA-4B43-AA99-A6F8664A6CC2</string>
 								<key>strokeColor</key>
 								<string>{0.747, 0.236, 0.101, 1.000}</string>
 								<key>strokeStyle</key>
@@ -846,9 +353,1313 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-199.64015615900263, 1272.0493128963344}</string>
+						<string>{-199.64015615900263, 648.63946000867941}</string>
 						<key>nodeID</key>
-						<string>D0E7DC7B-A6D5-42C6-BC74-6D97E895F949</string>
+						<string>1717FDDF-51FC-4D0D-B14E-042580D30159</string>
+						<key>strokeColor</key>
+						<string>{0.128, 0.463, 0.782, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{162.35984384099737, 74.572420596642132}</string>
+								<key>nodeID</key>
+								<string>23280CAE-8C52-48AD-831D-73962480E59A</string>
+								<key>strokeColor</key>
+								<string>{0.128, 0.463, 0.782, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;In the Gem world, developers bundle their applications and libraries into single files called gems. These files conform to a standardised format and typically are stored in repository on the net.&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 In the Gem world, developers bundle their applications and libraries into single files called gems. These files conform to a standardised format and typically are stored in repository on the net.}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{162.35984384099737, 170.57242059664213}</string>
+								<key>nodeID</key>
+								<string>7242B880-FE98-4F51-8E78-63E5E469BE96</string>
+								<key>strokeColor</key>
+								<string>{0.128, 0.463, 0.782, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;RubyGems system provide a command-line tool, appropriately named gem, for manipulating these gem files. &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 RubyGems system provide a command-line tool, appropriately named gem, for manipulating these gem files. }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{162.35984384099737, 266.57242059664213}</string>
+								<key>nodeID</key>
+								<string>CACB14C6-0BB7-4EC6-9846-677421FE9C70</string>
+								<key>strokeColor</key>
+								<string>{0.128, 0.463, 0.782, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{524.35984384099743, 234.57242059664213}</string>
+										<key>nodeID</key>
+										<string>5C0A4964-2DF1-484B-AD3E-64678504AF4A</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;--details displays the description of any gems it finds --remote searches the remote repository --name-matches search the central gem repository for any gem whose name matches the regular expression /build/&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 --details\uc0\u8232 displays the description of any gems it finds\u8232 --remote\u8232 searches the remote repository\u8232 --name-matches\u8232 search the central gem repository for any gem whose name matches the regular expression /build/}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{Installing Gems}  gem query --details --remote --name-matches build&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{Installing Gems\}\uc0\u8232 \u8232 gem query --details --remote --name-matches build}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{162.35984384099737, 378.57242059664213}</string>
+								<key>nodeID</key>
+								<string>4468E4A0-6694-4041-991A-FBF6F0706BA5</string>
+								<key>strokeColor</key>
+								<string>{0.128, 0.463, 0.782, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{check the  local gems} gem list&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{check the  local gems\}\uc0\u8232 gem list}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{162.35984384099737, 426.57242059664213}</string>
+								<key>nodeID</key>
+								<string>8E351C64-7B8A-44CF-938B-F0545FF80E57</string>
+								<key>strokeColor</key>
+								<string>{0.128, 0.463, 0.782, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{524.35984384099743, 426.57242059664213}</string>
+										<key>nodeID</key>
+										<string>1C20E5A2-79EA-470F-9DE4-E1DE586D08E7</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 255, 0, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Create a shortcut? % gemdoc=&amp;apos;gem environment gemdir&amp;apos;/doc ls $gemdoc open $gemdoc/xxxxxxxx/rdoc/index.html&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Create a shortcut?\uc0\u8232 % gemdoc='gem environment gemdir'/doc\u8232 ls $gemdoc\u8232 open $gemdoc/xxxxxxxx/rdoc/index.html}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{524.35984384099743, 506.57242059664213}</string>
+										<key>nodeID</key>
+										<string>B47C2C63-FC77-4D5A-8721-95E9BE8D9894</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 255, 0, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Easyest way to view the RDoc documentation is to use RubyGems&amp;apos; included gem server utility. %gem server&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Easyest way to view the RDoc documentation is to use RubyGems' included gem server utility.\uc0\u8232 %gem server}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{Reading the Gem Documentation} the documentation for each gem is stored in a central,protected,RUBYgeMS-SPECIFIC PLACE.  % gem environment gemdir  RubyGems stores generated documentation beneath the doc subfolder and you will find the HTML based files.&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{Reading the Gem Documentation\}\uc0\u8232 the documentation for each gem is stored in a central,protected,RUBYgeMS-SPECIFIC PLACE. \u8232 % gem environment gemdir\u8232 \u8232 RubyGems stores generated documentation beneath the doc subfolder and you will find the HTML based files.}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{162.35984384099737, 638.98227348429714}</string>
+								<key>nodeID</key>
+								<string>1D752CFA-9F5E-4DD2-80A8-88943A5A2ED3</string>
+								<key>strokeColor</key>
+								<string>{0.128, 0.463, 0.782, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>attachment</key>
+										<dict>
+											<key>fileName</key>
+											<string>C3144EA7-2267-47E4-BEC1-5B66CD7A8A24.png</string>
+											<key>size</key>
+											<string>{161.02419073545585, 126.81970577531001}</string>
+											<key>type</key>
+											<integer>2</integer>
+										</dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{523.35984384099743, 586.57242059664213}</string>
+										<key>nodeID</key>
+										<string>8BFC7488-1336-4A6D-AA93-AB785BADDF91</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Require_Library&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Require_Library}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[Using a Gem] Once a gem is installed, user {require} to load it into your own code, just s you would any other Ruby library.&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 [Using a Gem]\uc0\u8232 Once a gem is installed, user \{require\} to load it into your own code, just s you would any other Ruby library.}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{162.35984384099737, 965.04931289633441}</string>
+								<key>nodeID</key>
+								<string>083C3749-38CD-450B-9B31-A7910D57C96A</string>
+								<key>strokeColor</key>
+								<string>{0.128, 0.463, 0.782, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>attachment</key>
+										<dict>
+											<key>fileName</key>
+											<string>91594D8B-B887-450F-8BC1-FEB83B10FA0D.png</string>
+											<key>size</key>
+											<string>{288.52309461319436, 116.06497215121681}</string>
+											<key>type</key>
+											<integer>2</integer>
+										</dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{590.35984384099743, 771.39212637195214}</string>
+										<key>nodeID</key>
+										<string>A91E232B-F30F-4D9B-B1DC-001EF544A06B</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Require_Old_Gemsets&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Require_Old_Gemsets}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{590.35984384099743, 945.45709852316895}</string>
+										<key>nodeID</key>
+										<string>F3530F7A-763A-4F28-B8CF-7A36F2BA026F</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;the magic is gem line, which says, &amp;quot;when looking for the builder gem, consider only those versions less than 1.0&amp;quot; &lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 the magic is gem line, which says, "when looking for the builder gem, consider only those versions less than 1.0" }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>attachment</key>
+										<dict>
+											<key>fileName</key>
+											<string>D52B6A80-CA1F-4B12-B74F-059EF51B2C4C.png</string>
+											<key>size</key>
+											<string>{366.02489512285638, 203.24940089754767}</string>
+											<key>type</key>
+											<integer>2</integer>
+										</dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{590.35984384099743, 1009.457098523169}</string>
+										<key>nodeID</key>
+										<string>04CEB7E0-D8BA-4B1A-8CB8-8BA11BBB2A37</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Version_Operations&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Version_Operations}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{590.35984384099743, 1270.7064994207167}</string>
+										<key>nodeID</key>
+										<string>1924E95E-8459-4BCF-8883-139F4F6E9911</string>
+										<key>strokeColor</key>
+										<string>{0.128, 0.463, 0.782, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;the multiple version predicates is also validate  gem &amp;apos;builder&amp;apos; , &amp;apos;&amp;gt; .01&amp;apos;, &amp;apos;&amp;lt; 0.1.5&amp;apos;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 the multiple version predicates is also validate\uc0\u8232 \u8232 gem 'builder' , '&gt; .01', '&lt; 0.1.5'}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>366</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[Gems and Versions]  asked for a listing of Builder gems in the repository  % gem list -ra builder  // install the builder which version is less than 1 % gem install builder --version &amp;apos;&amp;lt; 1&amp;apos; % gem list builder  &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 [Gems and Versions]\uc0\u8232 \u8232 asked for a listing of Builder gems in the repository \u8232 % gem list -ra builder\u8232 \u8232 // install the builder which version is less than 1\u8232 % gem install builder --version '&lt; 1'\u8232 % gem list builder\u8232 \u8232 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[RubyGems Integration] It is a standardised packaging and installation framework for Ruby libraries and applications. RubyGems makes it easy to locate, install , upgrade and uninstall Ruby packages. &lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 [RubyGems Integration]\uc0\u8232 It is a standardised packaging and installation framework for Ruby libraries and applications. RubyGems makes it easy to locate, install , upgrade and uninstall Ruby packages.\u8232 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{0.037, 0.160, 0.198, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-755.64015615900257, 914.59109950569393}</string>
+						<key>nodeID</key>
+						<string>3F175C9D-612E-4290-AAA8-E8AFC4556FF2</string>
+						<key>strokeColor</key>
+						<string>{0.450, 0.541, 0.020, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-941.64015615900257, 914.59109950569393}</string>
+								<key>nodeID</key>
+								<string>522197F6-438E-4DFB-A70D-4E66C5C5B082</string>
+								<key>strokeColor</key>
+								<string>{0.450, 0.541, 0.020, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;require &amp;apos;rbconfig&amp;apos; include Config CONFIG[&amp;quot;host&amp;quot;]… …..&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 require 'rbconfig'\uc0\u8232 include Config\u8232 CONFIG["host"]\'85\u8232 \'85..}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[Build Environment]  When ruby is compiled for a particular architecture, all the relevant settings used to build it (including the architecture of the machine o which it was compiled, compiler options source del directory, and so on) are written to the module Config within the library file rbconfig.rb. After installation, any Ruby program can use this module to get details on how Ruby was compiled:&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 [Build Environment]\uc0\u8232 \u8232 When ruby is compiled for a particular architecture, all the relevant settings used to build it (including the architecture of the machine o which it was compiled, compiler options source del directory, and so on) are written to the module Config within the library file rbconfig.rb. After installation, any Ruby program can use this module to get details on how Ruby was compiled:}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{0.037, 0.160, 0.198, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-199.64015615900263, 1366.7064994207167}</string>
+						<key>nodeID</key>
+						<string>3B5D366C-4331-43E9-9C79-1117CAB0ACCA</string>
+						<key>strokeColor</key>
+						<string>{0.713, 0.331, 0.520, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{147.35984384099737, 1334.7064994207167}</string>
+								<key>nodeID</key>
+								<string>FB1A486B-0E08-4EFE-82C6-DCF3EC29A92D</string>
+								<key>strokeColor</key>
+								<string>{0.713, 0.331, 0.520, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{AWS:S3} gem is a library that gives you programmatic access to Amazon&amp;apos;s S3 storage facility.  {s3sh} lets you interact with s3 assets. &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{AWS:S3\} gem is a library that gives you programmatic access to Amazon's S3 storage facility. \uc0\u8232 \{s3sh\} lets you interact with s3 assets. }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{147.35984384099737, 1414.7064994207167}</string>
+								<key>nodeID</key>
+								<string>224EBD92-CA3B-4318-83BF-C3F3F8CB096C</string>
+								<key>strokeColor</key>
+								<string>{0.713, 0.331, 0.520, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Although gems supports versioning of libraries, it does not version command-line utilities. With these, &amp;quot;last one in wins.&amp;quot;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Although gems supports versioning of libraries, it does not version command-line utilities. With these, "last one in wins."}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[Gems can be more than library]  RubyGems can also install utility programs that you can invoke from the command line.&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 [Gems can be more than library]\uc0\u8232 \u8232 RubyGems can also install utility programs that you can invoke from the command line.}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{0.037, 0.160, 0.198, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-742.64015615900257, 1443.835155797045}</string>
+						<key>nodeID</key>
+						<string>F3C19DC6-E0D7-43C5-B5B3-6EF653FE0CB3</string>
+						<key>strokeColor</key>
+						<string>{0.647, 0.468, 0.027, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{0.037, 0.160, 0.198, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1090.6401561590026, 1435.835155797045}</string>
+								<key>nodeID</key>
+								<string>95D94202-CE29-497D-9603-E05FAD30794F</string>
+								<key>strokeColor</key>
+								<string>{0.647, 0.468, 0.027, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>attachment</key>
+										<dict>
+											<key>fileName</key>
+											<string>F360FDE8-C8F4-4211-A79D-C0876E4135E9.png</string>
+											<key>size</key>
+											<string>{217.15950176951173, 34.661997397825907}</string>
+											<key>type</key>
+											<integer>2</integer>
+										</dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1387.7996579285143, 1106.5910995056938}</string>
+										<key>nodeID</key>
+										<string>66EBD6FC-3A36-4788-9532-D43BA7682217</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Code_need_package&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Code_need_package}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1444.6401561590026, 1199.2530969035197}</string>
+										<key>nodeID</key>
+										<string>CFE7DB0C-8FF6-422B-900E-C24ABB8762E2</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;lets package this code as {task} - a chunk of code that Rake can execute for us&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 lets package this code as \{task\} - a chunk of code that Rake can execute for us}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1452.6401561590026, 1247.2530969035197}</string>
+										<key>nodeID</key>
+										<string>2388ADA9-9009-4B9E-ADDC-F96BA425DF4A</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;By default, rake searches the current directory (and its parents) for a file called {Rakefile} - the file contain the definitions for the tasks that Rake can run.&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 By default, rake searches the current directory (and its parents) for a file called \{Rakefile\} - the file contain the definitions for the tasks that Rake can run.}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>attachment</key>
+										<dict>
+											<key>fileName</key>
+											<string>F2FC5E23-1167-46BA-900C-86555221057E.png</string>
+											<key>size</key>
+											<string>{372.8976390408784, 114.32550370594598}</string>
+											<key>type</key>
+											<integer>2</integer>
+										</dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1543.537795199881, 1327.2530969035197}</string>
+										<key>nodeID</key>
+										<string>802D1B24-AE5A-486A-AB05-1F023297DCCF</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;RakeFile&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 RakeFile}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{0.037, 0.160, 0.198, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1451.6401561590026, 1632.328906348931}</string>
+										<key>nodeID</key>
+										<string>AF0835DE-7E37-40B5-9C8F-1AF2237014EA</string>
+										<key>strokeColor</key>
+										<string>{0.647, 0.468, 0.027, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.037, 0.160, 0.198, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-1813.6401561590026, 1499.5786006094656}</string>
+												<key>nodeID</key>
+												<string>D11480BE-1D35-43DD-84D7-DAB4CC9A6533</string>
+												<key>strokeColor</key>
+												<string>{0.647, 0.468, 0.027, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{desc} provides a single line of documentation for the task that follows it.&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{desc\}\uc0\u8232 provides a single line of documentation for the task that follows it.}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.037, 0.160, 0.198, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-1813.6401561590026, 1563.5786006094656}</string>
+												<key>nodeID</key>
+												<string>F19AF604-F73F-4CDA-8A7D-184670D3EBAE</string>
+												<key>strokeColor</key>
+												<string>{0.647, 0.468, 0.027, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;{task} defines a Rake task that can be executed from the command line. The parameter is the name of the task(a symbol) , and the block that follows is the code to be executed.  Here just need rm - all the methods if FileUtils are automatically available inside Rake files.&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \{task\}\uc0\u8232 defines a Rake task that can be executed from the command line. The parameter is the name of the task(a symbol) , and the block that follows is the code to be executed. \u8232 Here just need rm - all the methods if FileUtils are automatically available inside Rake files.}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>attachment</key>
+												<dict>
+													<key>fileName</key>
+													<string>F6FC9846-87E3-4BDC-BF73-E9DEA8D219C1.png</string>
+													<key>size</key>
+													<string>{538.07492054605223, 111.50061147893075}</string>
+													<key>type</key>
+													<integer>2</integer>
+												</dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{0.037, 0.160, 0.198, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-2069.7150767050548, 1691.5786006094656}</string>
+												<key>nodeID</key>
+												<string>F665EA50-1FC8-4BDA-8206-89C8F9C5C7A1</string>
+												<key>strokeColor</key>
+												<string>{0.647, 0.468, 0.027, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Invoke_Rake_Task&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Invoke_Rake_Task}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;it does not have an .rb extension, this is actually just a file of Ruby code. Rake defines an environment containing methods such as {desc} and {task} and then executes the Rakefile.&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 it does not have an .rb extension, this is actually just a file of Ruby code. Rake defines an environment containing methods such as \{desc\} and \{task\} and then executes the Rakefile.}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Rake was initially implemented as a Ruby version of Make, the common build utility.  Rake is an automation tool- it is a way of putting all those tasks that you perform in a project into one neat and tidy place.&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Rake was initially implemented as a Ruby version of Make, the common build utility. \uc0\u8232 Rake is an automation tool- it is a way of putting all those tasks that you perform in a project into one neat and tidy place.}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(251, 244, 220, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;[The Rake Build Tool]  Jim Weirich wrote an incredibly useful utility program called Rake. &lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red251\green244\blue220;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 [The Rake Build Tool]\uc0\u8232 \u8232 Jim Weirich wrote an incredibly useful utility program called Rake. }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{0.037, 0.160, 0.198, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-199.64015615900263, 1601.7064994207167}</string>
+						<key>nodeID</key>
+						<string>31E72597-0B47-44D9-978B-590AB3352F7D</string>
 						<key>strokeColor</key>
 						<string>{0.647, 0.468, 0.027, 1.000}</string>
 						<key>strokeStyle</key>
@@ -869,9 +1680,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{137.35984384099737, 1149.0493128963344}</string>
+								<string>{137.35984384099737, 1478.7064994207167}</string>
 								<key>nodeID</key>
-								<string>0F9C8BEB-000E-4FA7-A9FD-1D1A790F9475</string>
+								<string>2D1F9E8E-ED9A-4A76-8724-11530DA24F4A</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -909,9 +1720,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{137.35984384099737, 1181.0493128963344}</string>
+								<string>{137.35984384099737, 1510.7064994207167}</string>
 								<key>nodeID</key>
-								<string>39D5A97C-7601-4F7F-9962-8F2A90A167E4</string>
+								<string>FB7B6234-D648-4D96-8E69-4C278E5C4ACA</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -949,9 +1760,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{137.35984384099737, 1229.0493128963344}</string>
+								<string>{137.35984384099737, 1558.7064994207167}</string>
 								<key>nodeID</key>
-								<string>DB028A84-F2A6-4530-AA73-3CA9A8147611</string>
+								<string>0B7C654B-650F-4554-B930-24204BBEE2E0</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -989,9 +1800,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{137.35984384099737, 1325.0493128963344}</string>
+								<string>{137.35984384099737, 1654.7064994207167}</string>
 								<key>nodeID</key>
-								<string>559CE264-4AF0-4140-BB8E-8B41AFE806D6</string>
+								<string>99F3D374-A783-40EE-ADB1-A71C0489309A</string>
 								<key>strokeColor</key>
 								<string>{0.647, 0.468, 0.027, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1063,9 +1874,9 @@ If your program reads from standard input (or uses the special object
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-199.64015615900263, 1523.0493128963344}</string>
+						<string>{-199.64015615900263, 1852.7064994207167}</string>
 						<key>nodeID</key>
-						<string>86633FA4-60F2-49BC-925E-074033C4FE13</string>
+						<string>5A35C10F-8EF1-499F-A495-89AD83ED3B98</string>
 						<key>strokeColor</key>
 						<string>{0.450, 0.541, 0.020, 1.000}</string>
 						<key>strokeStyle</key>
