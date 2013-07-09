@@ -1,0 +1,155 @@
+
+2.重大改变
+	只有改变一门语言的本来面目和行为方式，才是真正掌握了赋予变成无穷乐趣的魔法。-> Metaprogramming
+	"写程序能写的程序"，rails核心的ActiveRecord框架,就用元编程实现了一门简单易懂的语言,以便编写连接数据库表的类。
+	如果给 department写个AcriveRecord类：
+	class Department < ActiveRecord :: Base
+		has_many :employees
+		has_one	:manager
+	end
+
+2.1 开放类
+	［代码块和yield］，它可以随时改变任何类的定义，常用于给类添加行为。来自rails框架，为NilClass添加了一个方法。
+	class NilClass
+		def blank?
+			true
+		end
+	end
+
+	class String
+		def blank?
+			self.size == 0
+		end
+	end
+
+->
+	["","person",nil].each do |element|
+		puts element unless element.blank?
+	end
+
+-->>
+	在某个类名上首次调用class关键字会定义一个类，但如果该类已定义过，再调用class会修改先前的类定义。就以上两个类各自添加了blank？，不管字符串用的是哪个类。
+	开放string和nilclass两个类，对他们进行了重定义，利用重定义，可以做任何事情。
+	对于开放类来说，这里的权衡主要考虑了自由，能写出极为通俗易懂的代码。自由越大，能力越强，担负的责任也越重。
+	实现用于领域编程的特定语言中，开放类特别有用，其中一个常见的情况，是通过语言表示业务领域的度量单位，例如，英寸为距离单位的API:
+	class Numeric
+		def inches
+			self
+		end
+	
+		def feet
+			self * 12.inches
+		end
+
+		def yards
+			self * 3.feet
+		end
+
+		def miles
+			self * 5280.feet
+		end
+		
+		def back
+			self * -1
+		end
+
+		def forward
+			self
+		end
+end
+
+puts 10.miles.back
+puts 2.feet.forward
+
+
+		puts element unless element.blank?
+	end
+
+-->>
+	在某个类名上首次调用class关键字会定义一个类，但如果该类已定义过，再调用class会修改先前的类定义。就以上两个类各自添加了blank？，不管字符串用的是哪个类。
+	开放string和nilclass两个类，对他们进行了重定义，利用重定义，可以做任何事情。
+	对于开放类来说，这里的权衡主要考虑了自由，能写出极为通俗易懂的代码。自由越大，能力越强，担负的责任也越重。
+	实现用于领域编程的特定语言中，开放类特别有用，其中一个常见的情况，是通过语言表示业务领域的度量单位，例如，英寸为距离单位的API:
+	class Numeric
+		def inches
+			self
+		end
+	
+		def feet
+			self * 12.inches
+		end
+
+		def yards
+			self * 3.feet
+		end
+
+		def miles
+			self * 5280.feet
+		end
+		
+		def back
+			self * -1
+		end
+
+		def forward
+			self
+		end
+end
+
+puts 10.miles.back
+puts 2.feet.forward
+
+
+		puts element unless element.blank?
+	end
+
+-->>
+	在某个类名上首次调用class关键字会定义一个类，但如果该类已定义过，再调用class会修改先前的类定义。就以上两个类各自添加了blank？，不管字符串用的是哪个类。
+	开放string和nilclass两个类，对他们进行了重定义，利用重定义，可以做任何事情。
+	对于开放类来说，这里的权衡主要考虑了自由，能写出极为通俗易懂的代码。自由越大，能力越强，担负的责任也越重。
+	实现用于领域编程的特定语言中，开放类特别有用，其中一个常见的情况，是通过语言表示业务领域的度量单位，例如，英寸为距离单位的API:
+	class Numeric
+		def inches
+			self
+		end
+	
+		def feet
+			self * 12.inches
+		end
+
+		def yards
+			self * 3.feet
+		end
+
+		def miles
+			self * 5280.feet
+		end
+		
+		def back
+			self * -1
+		end
+
+		def forward
+			self
+		end
+end
+
+puts 10.miles.back
+puts 2.feet.forward
+
+2.2 使用 method_missing
+	Ruby 找不到某个方法的时候，回调用一个特殊的调试方法显示诊断信息。该特性不仅让Ruby更简易于调试，还更加有趣的作用。只需要override method_missing方法。
+
+2.3 模块
+	最流行的元编程方式，模块。仅在模块中写上几行的代码，就能实现def或者attr_accessor关键字的功能。还可以扩展类定义，设计自己的DSL(Domain Specific language)，再用DSL定义自己的类。［ActiveRecord的持久化框架使用DSL,把一个类映射到一张数据表上。］
+	DSL在模块中定义各种方法，这些方法添加了对类进行管理所必需的全部方法和常量。
+	superclass剖析
+
+
+
+
+
+
+
+
+
